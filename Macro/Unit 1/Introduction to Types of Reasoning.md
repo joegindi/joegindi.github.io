@@ -1,4 +1,4 @@
-##### AP Economics
+##### AP Economics - Macro
 
 # Introduction to Types of Reasoning
 
@@ -23,4 +23,14 @@
 
 2. Inductive/Induction
 
-   1. Many cases, Many moments --> Many moments, Many cases
+   1. A group of people acting one way, can act the same way a different day.
+
+      Many cases, Many moments --> Many moments, Many cases
+
+   2. Accuracy is **high**, Possibility of Error is **low**.
+
+3. Abductive 
+
+   1. Many cases, Many moments from the past explain the present <-- One moment now --> Many cases, Many moments in the future
+
+      Such as a review of a past court case or imprisonment that was wrongfully convicted.
