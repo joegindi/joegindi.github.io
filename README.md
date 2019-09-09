@@ -4,11 +4,11 @@
 
 
 
-### Macroeconomics
+### Microeconomics
 
 ##### Unit 1 
 
-1. [Intro to Types of Reasoning](/Macro/Unit _1/Introduction_to_Types_of_Reasoning.md)
-2. [Intro to Economics](/Macro/Unit _1/Introduction_to_Economics.md)
+1. [Intro to Types of Reasoning](/Micro/Unit_1/Introduction_to_Types_of_Reasoning.md)
+2. [Intro to Economics](/Micro/Unit_1/Introduction_to_Economics.md)
 
 
