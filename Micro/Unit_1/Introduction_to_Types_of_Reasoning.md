@@ -1,4 +1,4 @@
-##### AP Economics - Macro
+##### AP Economics - Micro
 
 # Introduction to Types of Reasoning
 

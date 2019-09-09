@@ -8,5 +8,7 @@
 
 ##### Unit 1 
 
-1. [Intro to Types of Reasoning](/Macro/Unit 1/Introduction to Types of Reasoning.md)
+1. [Intro to Types of Reasoning](/Macro/Unit _1/Introduction_to_Types_of_Reasoning.md)
+2. [Intro to Economics](/Macro/Unit _1/Introduction_to_Economics.md)
+
 
