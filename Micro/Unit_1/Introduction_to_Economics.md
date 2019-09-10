@@ -29,3 +29,14 @@
    1. There are gains from **trade**. Trade allows us all to consume more than we otherwise could.
    2. Markets move toward **equilibrium** (an economic situation in which no individual would be better off doing something different). **Specialization** is the situation in which each person specializes in the task that he is good at preforming.
    3. Resources should be used efficiently to achieve society's goals. **Efficiency** is taking all opportunities to make some people better off without making other people worse off.
+
+#### Calculating Marginal Analysis
+
+| Highest Degree Earned | Expected Lifetime Earnings (total benefit) by degree | Marginal Benefit of Additional Degree | Expected Lifetime Costs (total cost) by Degree | Marginal Cost of Additional Degree |
+| --------------------- | ---------------------------------------- | ------------------------------------- | ---------------------------------------- | ---------------------------------- |
+| High School           | $600,000                                 | $600,000                              | $0                                       | $0                                 |
+| Associate             | $1,200,000                               | $600,000                              | $200,000                                 | $200,000                           |
+| Bachelor's            | $1,700,000                               | $500,000                              | $500,000                                 | $300,000                           |
+| Master's              | $2,100,000                               | $400,000                              | $900,000                                 | $400,000                           |
+| Doctorate             | $2,400,000                               | $300,000                              | $2,400,000                               | $1,500,000                         |
+
