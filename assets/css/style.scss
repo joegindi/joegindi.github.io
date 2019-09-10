@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+$section-headings-color: #2693FF !default;
+$header-bg-color: #2693FF !default;
+$header-bg-color-secondary: #2680FF !default;
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
