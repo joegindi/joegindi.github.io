@@ -40,3 +40,17 @@
 | Master's              | $2,100,000                               | $400,000                              | $900,000                                 | $400,000                           |
 | Doctorate             | $2,400,000                               | $300,000                              | $2,400,000                               | $1,500,000                         |
 
+
+
+**Problem Set: Marginal Analysis**
+
+The local farmer's market offers 1 bag of romaine lettuce for $3 or 2 bags for 5. What's the marginal cost of the second bag?
+
+Marginal Cost = `$2`
+
+------
+
+The local farmer's market offers 1 bag of cilantro for $6 or 2 bags for 10. What's the marginal cost of the second bag?
+
+Marginal Cost = `$4`
+
