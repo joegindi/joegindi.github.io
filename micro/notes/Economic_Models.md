@@ -28,3 +28,11 @@
   * How much can we produce?
   * What will it cost us to change our mix of production?
   * Does it make sense to import the goods from somewhere else?
+
+
+
+#### Opportunity Cost
+
+* Opportunity Cost: what must be given up in order to get a good.
+* If Boeing decides to change its production from point A to point B, it will produce 8 more small jets but 6 fewer Dreamliners: each small jet has an opportunity cost of 6 / 8 = 3 / 4 of a Dreamliner.
+
