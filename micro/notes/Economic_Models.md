@@ -1,4 +1,4 @@
-##### AP Economics - Micro
+##### AP Economics -[Micro](https://maxshalom.com/ap-econ/#microeconomics)
 
 # Economic Models
 
@@ -75,5 +75,10 @@ It makes sense to produce the things you’re especially good at producing… an
   * If it’s cheaper for Brazil to produce small jets than it is for the United States, the United States will want to import small jets from Brazil.
 
 
-#### Transaction
+#### Transaction - Circular Flow
+
+* Trade takes the form of **barter** when people directly exchange goods or services that they have for goods or services that they want.
+* The **circular-flow diagram** represents the transactions in an economy by flows around a circle.
+* A **household** is a person or a group of people that share their income.
+* A **firm** is an organization that produces goods and services for sale.
 

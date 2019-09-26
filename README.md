@@ -12,10 +12,6 @@
 2. [Chapter 2](/micro/slides/chapter_2.pptx)
 3. [Chapter 3](/micro/slides/chapter_3.pptx)
 
-### Test Review
-
-1. [Test #1](/micro/notes/test_review/test_1.md)
-
 ### Notes
 
 1. [Intro to Types of Reasoning](/micro/notes/Introduction_to_Types_of_Reasoning.md)
@@ -23,7 +19,9 @@
 3. [Economic Models](/micro/notes/Economic_Models.md)
 
 
+### Test Review
 
+1. [Test #1](/micro/notes/test_review/test_1.md)
 
 
 
