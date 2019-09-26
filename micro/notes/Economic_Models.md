@@ -51,11 +51,6 @@ Two possibilities:
 4. **Human capital** is the educational achievements and skills of the labor force (which increase labor productivity).
 
 
-
-------
-
-
-
 #### Comparative Advantage
 
 ##### Theory of Comparative Advantage:
@@ -79,4 +74,4 @@ It makes sense to produce the things you’re especially good at producing… an
 
   * If it’s cheaper for Brazil to produce small jets than it is for the United States, the United States will want to import small jets from Brazil.
 
-  ​
+

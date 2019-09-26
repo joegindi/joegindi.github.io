@@ -4,7 +4,9 @@
 
 #### Key Terms
 
-* Quantity Supplied - 
+* Law of Demand - 
+  * Shifts
+    * ​
 * Law of Supply - 
 * Supply Schedule - 
 * Supply Curve - 
