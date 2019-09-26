@@ -1,4 +1,4 @@
-##### AP Economics -[Micro](https://maxshalom.com/ap-econ/#microeconomics)
+##### AP Economics - [Micro](https://maxshalom.com/ap-econ/#microeconomics)
 
 # Economic Models
 
