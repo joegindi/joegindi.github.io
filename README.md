@@ -1,5 +1,3 @@
-
-
 # Project Portfolio
 
 ------
@@ -18,6 +16,5 @@ I am Joe J. Gindi, a student at the Yeshivah of Flatbush, and this is my project
 ### Computer Science
 
 1. [CSP](#)
-
 
 **Want to get in touch?** [josephjack_gindi121@flatbush.org](mailto:josephjack_gindi121@flatbush.org)
