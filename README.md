@@ -2,9 +2,6 @@
 
 ------
 
-I am Joe J. Gindi, a student at the Yeshivah of Flatbush, and this is my project portfolio. 
-
-
 ### Politics and Law
 
 1. [Law](#)
