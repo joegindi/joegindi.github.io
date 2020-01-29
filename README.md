@@ -20,4 +20,4 @@ I am Joe J. Gindi, a student at the Yeshivah of Flatbush, and this is my project
 1. [CSP](#)
 
 
-**Want to get in touch?** [Email me](mailto:josephjack_gindi121@flatbush.org)
+**Want to get in touch?** [josephjack_gindi121@flatbush.org](mailto:josephjack_gindi121@flatbush.org)
