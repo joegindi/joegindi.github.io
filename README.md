@@ -8,7 +8,7 @@
 
 ### History
 
-1. [Roman Influence Project](https://drive.google.com/a/flatbush.org/file/d/1wt8MHBGeP-tiR0PZk7EAaEQcTYK1Jfc8/view?usp=drivesdk)
+1. [Roman Influence Project](https://dochub.com/joseph-gindib84999b3/D4Pz53E/joe-j-gindi-research-project-pdf)
 
 ### Computer Science
 
