@@ -5,7 +5,7 @@
 ### History
 
 1. [Roman Influence Project](/docs/RomanResearchProject.pdf)
-2. [9/11 Project](/docs/9-11-project.pdf)
+2. [The Impact of 9/11 on American History](/docs/9-11-project.pdf)
 
 ### Computer Science
 
